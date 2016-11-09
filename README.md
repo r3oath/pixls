@@ -1,2 +1,2 @@
-# pixls
+# Pixls
 Pixls homepage.
