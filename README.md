@@ -1,2 +1,0 @@
-# Pixls
-Pixls homepage.
